@@ -1,0 +1,14 @@
+{
+  "appId": "com.noor.azan",
+  "appName": "Noor",
+  "webDir": "www",
+  "backgroundColor": "#14325a",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true },
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_noor",
+      "iconColor": "#0f7b5f",
+      "sound": "azan.mp3"
+    }
+  }
+}
